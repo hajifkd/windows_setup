@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<packages>
+  <!-- A kind of mandatory packages -->
+  <package id="GoogleChrome" />
+  <package id="Firefox" />
+  <package id="texstudio" />
+  <package id="dropbox" />
+  <package id="msys2" />
+  <package id="xming" />
+  <package id="conemu" />
+  <package id="Thunderbird" />
+  <package id="skype" />
+  <package id="rapidee" />
+  <package id="winrar" />
+  <package id="vlc" />
+  <package id="notepadplusplus" />
+  <package id="tightvnc" />
+
+  <!-- Development Tools -->
+  <package id="jdk8" />
+  <package id="android-sdk" />
+  <package id="androidstudio" />
+  <package id="VisualStudio2015Community" />
+  <package id="xamarin-visualstudio" />
+  <package id="VisualStudioCode" />
+
+  <!-- CTF tools -->
+  <package id="apktool" />
+  <package id="javadecompiler-gui" />
+  <package id="ilspy" />
+  <package id="audacity" />
+  <package id="wireshark" />
+  <package id="procexp" />
+  <package id="paint.net" />
+  <package id="gimp" />
+</packages>
